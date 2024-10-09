@@ -37,8 +37,9 @@ Before you begin, ensure you have the following tools installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://your-repo-url.git
-   cd Automated_provisioning/vagrant
+   git clone https://github.com/hariravendran/AutoProvisioningWebApp/
+   Extract Automated_provisioningWebApp.zip
+   cd Automated_provisioningWebApp/vagrant
    ```
 
 2. **Start the Vagrant Environment**:

@@ -38,9 +38,10 @@ Before you begin, ensure you have the following tools installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/hariravendran/AutoProvisioningWebApp/
-   (Extract Automated_provisioning_WinMacIntel.zip)
    cd Automated_provisioning_WinMacIntel
    ```
+   (Extract Automated_provisioning_WinMacIntel.zip)
+
 
 2. **Start the Vagrant Environment**:
    - Open Git Bash and run the following command:

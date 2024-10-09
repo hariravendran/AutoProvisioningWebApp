@@ -38,8 +38,8 @@ Before you begin, ensure you have the following tools installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/hariravendran/AutoProvisioningWebApp/
-   Extract Automated_provisioningWebApp.zip
-   cd Automated_provisioningWebApp/vagrant
+   (Extract Automated_provisioning_WinMacIntel.zip)
+   cd Automated_provisioning_WinMacIntel
    ```
 
 2. **Start the Vagrant Environment**:

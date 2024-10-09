@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains scripts and configurations to automate the setup of a multi-tier web application stack for the **VentureHub Project**. Designed for both Windows and macOS (Intel), this project leverages Vagrant and VirtualBox to create a local development environment that is repeatable and easy to manage.
+This repository contains a framework for automating the setup of a multi-tier web application stack for the VentureHub Project. Designed for both Windows and macOS (Intel), this project leverages Vagrant and VirtualBox to create a local development environment that is repeatable and easy to manage.
 
 ## Prerequisites
 

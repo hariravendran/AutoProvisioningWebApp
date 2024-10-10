@@ -81,7 +81,6 @@ Before you begin, ensure you have the following tools installed:
 ## Conclusion
 
 This automated setup streamlines the process of creating a multi-tier web application stack for the **VentureHub Project** on your local machine. By using Vagrant and the provided provisioning scripts, you can easily manage and repeat the setup for development and testing purposes.
-Feel free to explore the scripts and modify them according to your project needs.
 
 ## License
 
